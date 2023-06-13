@@ -1,1 +1,1 @@
-# DjangoProject
+# GitforStudybud
